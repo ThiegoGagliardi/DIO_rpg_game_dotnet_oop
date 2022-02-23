@@ -1,0 +1,15 @@
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.csproj.AssemblyReference.cache
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.AssemblyInfoInputs.cache
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.AssemblyInfo.cs
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.csproj.CoreCompileInputs.cache
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.exe
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.deps.json
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.runtimeconfig.json
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.dll
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\bin\Debug\net6.0\ref\POO_jogo_rpg.dll
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\bin\Debug\net6.0\POO_jogo_rpg.pdb
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.dll
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\ref\POO_jogo_rpg.dll
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.pdb
+C:\Users\Thieg\OneDrive\Documentos\Digital Innovatio One\.net\POO_jogo_rpg\obj\Debug\net6.0\POO_jogo_rpg.genruntimeconfig.cache
